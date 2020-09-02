@@ -1,0 +1,53 @@
+[33mcommit 0619493c81731b4028bd463b0b32cc1661063259[m
+Author: Vasanth2 <nvkumar1242@gmail.com>
+Date:   Wed Sep 2 17:58:35 2020 +0000
+
+    removed everything inst1
+
+[1mdiff --git a/app.py b/app.py[m
+[1mdeleted file mode 100644[m
+[1mindex e988535..0000000[m
+[1m--- a/app.py[m
+[1m+++ /dev/null[m
+[36m@@ -1,7 +0,0 @@[m
+[31m-[m
+[31m-name = "vasanth"[m
+[31m-print("Hello",name)[m
+[31m-def test(self):[m
+[31m-[m
+[31m-dfasdfa[m
+[31m-	print("vasanth")[m
+[1mdiff --git a/dataabase.ini b/dataabase.ini[m
+[1mdeleted file mode 100644[m
+[1mindex 7c12bf0..0000000[m
+[1m--- a/dataabase.ini[m
+[1m+++ /dev/null[m
+[36m@@ -1,11 +0,0 @@[m
+[31m-database_name mydatabase[m
+[31m-database_user passowrd[m
+[31m-database address[m
+[31m-a[m
+[31m-fafa[m
+[31m-[m
+[31m-a[m
+[31m-fa[m
+[31m-f[m
+[31m-af[m
+[31m-afatabest location host[m
+[1mdiff --git a/pythontest.py b/pythontest.py[m
+[1mdeleted file mode 100644[m
+[1mindex 42418cf..0000000[m
+[1m--- a/pythontest.py[m
+[1m+++ /dev/null[m
+[36m@@ -1,4 +0,0 @@[m
+[31m-dd[m
+[31m-rfssdfkjalkfjlkajf[m
+[31m-asfljasfklj[m
+[31m-fasfkja;l[m
+[1mdiff --git a/sampleproject b/sampleproject[m
+[1mdeleted file mode 160000[m
+[1mindex 52966de..0000000[m
+[1m--- a/sampleproject[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-Subproject commit 52966defd6a61e97295b0bb82cd3474ac3e11c7a[m
