@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 om sairam
+=======
+thried dvelopere
+
+>>>>>>> 1d112b14f18109ff1c3c85537b64864b5b37aa86
